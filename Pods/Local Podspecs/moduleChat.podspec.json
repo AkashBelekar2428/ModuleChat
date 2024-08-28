@@ -1,0 +1,22 @@
+{
+  "name": "moduleChat",
+  "version": "0.1.0",
+  "summary": "A short description of moduleChat.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Akash Belekar/moduleChat",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Akash Belekar": "akash.belekar@mobifilia.com"
+  },
+  "source": {
+    "git": "https://github.com/Akash Belekar/moduleChat.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "moduleChat/Classes/**/*"
+}
